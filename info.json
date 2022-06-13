@@ -8,7 +8,7 @@
     "description": "",
     "ptype": 0,
     "prefix": "",
-    "config": "./data/newPc.rbs",
+    "config": "data/pc.rbs",
     "m_prefix": "",
-    "m_config": "./data/mobile.rbs"
+    "m_config": "data/mobile.rbs"
 }
